@@ -1,0 +1,4 @@
+rootProject.name = 'AwesomeProject'
+
+include ':app', ':react-native-billing', ':in-app-billing'
+
