@@ -1,6 +1,8 @@
 # Cafebazaar-ReactNative
 
-A simple react native sample for cafebazaar in app billing
+## A simple react native sample for cafebazaar in app billing
+
+
 
 1.Copy and edit this source code. important tips are mentioned in next steps.
 
@@ -16,5 +18,10 @@ A simple react native sample for cafebazaar in app billing
 
 5. run your app and enjoy :))
 
+more detailed help is available in <a href="https://github.com/idehub/react-native-billing">main repo</a>
 
-### a code derived https://github.com/idehub/react-native-billing
+
+<img src="https://raw.githubusercontent.com/The-LoneWolf/Cafebazaar-ReactNative/master/img/screen.png" width="108" height="192"  />
+
+
+### a code derived from https://github.com/idehub/react-native-billing
