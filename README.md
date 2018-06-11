@@ -16,12 +16,16 @@
 
 4.In App.js there is a line ```productId: "vipuser",``` change the value with your product sku-code.(```vipuser``` is sample sku).
 
+
 5. run your app and enjoy :))
+
 
 more detailed help is available in <a href="https://github.com/idehub/react-native-billing">main repo</a>
 
 
-<img src="https://raw.githubusercontent.com/The-LoneWolf/Cafebazaar-ReactNative/master/img/screen.png" width="108" height="192"  />
+
+<img src="https://raw.githubusercontent.com/The-LoneWolf/Cafebazaar-ReactNative/master/img/screen.png" width="216" height="384"  />
+
 
 
 ### a code derived from https://github.com/idehub/react-native-billing
